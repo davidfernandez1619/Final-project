@@ -26,13 +26,13 @@ Usando una función que escrapeaba los datos de LinkedIn de un usuario, saqué l
 
 A continuación, me quedé con sus datos de la experiencia: puesto ocupado, empresa en la que trabajó o ha trabajado, fecha de inicio y fecha fin. A partir de estos datos, pude calcular la duración de cada una de las experiencias. 
 
-Una vez hecho todo esto, limpié todos los datos y reestructuré mi dataframe, e hice algunas labores extra de limpieza antes de cargar los datos a Tableau. Puedes ver el proceso completo [aquí](https://github.com/davidfernandez1619/Final-project/blob/main/Notebooks/3-%20Scraping%20experience%20data.ipynb). 
+Una vez hecho todo esto, limpié todos los datos y reestructuré mi dataframe, e hice algunas labores extra de limpieza antes de cargar los datos a Tableau. **Puedes ver el proceso completo [aquí](https://github.com/davidfernandez1619/Final-project/blob/main/Notebooks/3-%20Scraping%20experience%20data.ipynb)**. 
 
 ### Paso 4: carga de datos a Tableau y visualización: 
 
 Una vez terminada mi extracción y limpieza de datos, realicé la visualización con Tableau. 
 
-Puedes [visitar el dashboard aquí](
+Puedes [visitar el dashboard aquí](https://public.tableau.com/app/profile/david.fern.ndez6995/viz/Proyectoempleabilidad/Dashboard1?publish=yes)
 
 ## Conclusiones en base a los datos: 
 
